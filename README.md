@@ -9,6 +9,6 @@ This is a Windows application (implemented using WinForms & C#) that has all the
 In addition, it allows one to:
 -	Open the Folder Location of the selected driver.
 -	Check old drivers.
--	Save the list of drivers to a CVS file.
+-	Save the list of drivers to a CVS file. 
 
 ![alt text](https://github.com/ebuculei/ePnpGui/blob/master/ePnpGui.jpg)
