@@ -7,7 +7,8 @@ This is a Windows application (implemented using WinForms & C#) that has all the
 -	Enumerates the driver packages that are currently in the driver store. Only driver packages that are not in-box packages are listed.
 
 In addition, it allows one to:
--	Select old drivers.
+-	Open the Folder Location of the selected driver.
+-	Check old drivers.
 -	Save the list of drivers to a CVS file.
 
 ![alt text](https://github.com/ebuculei/ePnpGui/blob/master/ePnpGui.jpg)
