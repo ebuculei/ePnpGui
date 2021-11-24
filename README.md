@@ -12,3 +12,10 @@ In addition, it allows one to:
 -	Save the list of drivers to a CVS file. 
 
 ![alt text](https://github.com/ebuculei/ePnpGui/blob/master/ePnpGui.jpg)
+
+Requirements:
+- .NET Framework 4.5.1 or newer
+- Windows 7 or newer
+- Windows Server 2016 or newer 
+
+To build the application, open ePnpGui.sln in Visual Studio 2017, 2019, or 2022.
